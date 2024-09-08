@@ -1,4 +1,4 @@
 # south-korea-demo
 This is my second repository
 <br>
-Author - Muhammad Ibraheem
+Author - Muhammad Ibraheem (South Korean Prince)
